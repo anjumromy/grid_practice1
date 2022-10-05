@@ -1,0 +1,28 @@
+.box1{
+	margin: 10px 0;
+min-height: 80px;
+background-color: maroon;
+font-size: 30px;
+color: white;
+}
+
+.header, .hero, .body, .bar, .footer{
+	background-color: lightskyblue;
+	margin-bottom: 10px;
+}
+
+.box{
+	margin: 10px 0;
+min-height: 80px;
+background-color: #b43f93;
+font-size: 30px;
+color: white;
+}
+
+.red{
+	background-color: lime;
+}
+
+.five{
+	background-color: blue;
+}
